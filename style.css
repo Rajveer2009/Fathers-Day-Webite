@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+body {
+    background-color: #f5f7ea;
+    font-family: 'Coming Soon', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    color: red;
+}
+
+.gif {
+    display: inline-block;
+}
+
+#count-down-div {
+    text-align: center;
+}
+
+#head-count {
+    color: yellow;
+    font-size: 42px;
+    font-weight: 900;
+}
+
+#demo {
+    color: red;
+    font-size: 52px;
+    font-weight: 700;
+}
